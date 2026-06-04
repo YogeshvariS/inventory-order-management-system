@@ -113,3 +113,10 @@ POSTGRES_PORT=5432
 - Order history filtering
 - Pagination
 - Search & sorting
+
+## Live Demo
+
+- Frontend: https://inventory-order-management-system-theta-one.vercel.app/
+- Backend API: https://inventory-order-management-system-2vot.onrender.com
+- API Documentation: https://inventory-order-management-system-2vot.onrender.com/docs
+- Docker Hub: https://hub.docker.com/r/yogeshvari22/inventory-order-management-system-backend
